@@ -1,4 +1,4 @@
-# rn-assignment4-
+# rn-assignment4-11352899
 
 # Task Management App
 
@@ -48,6 +48,4 @@ All the styling is done using `StyleSheet` in React Native. The styles are appli
 - Colors and font sizes are chosen to provide a pleasant and readable UI.
 
 # Screenshots
-![alt text](screen.png) ![alt text](i.png) ![alt text](j.png) ![alt text](<screenshot 202 2.png>)
 
-Contact me for more details from meahiakedzi001@st.ug.edu.gh
