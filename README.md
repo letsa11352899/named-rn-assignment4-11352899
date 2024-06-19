@@ -9,7 +9,7 @@ This is a simple task management app built with React Native. The app displays a
 To get started with the project, follow these steps:
 
 1. Clone the repository:
-   git clone : https://github.com/Esinam01/rn-assignment4-11296788.git
+   git clone : https://github.com/letsa11352899/rn-assignment4-11296788.git
 
 2. Navigate to the project directory:
 
